@@ -33,7 +33,7 @@ Attend general body meetings. Vote on motions. Propose changes. Run for the boar
 
 ## You Don't Have to Do Everything
 
-Participation isn't an obligation beyond your dues. Some months you'll be deeply involved; other months might onlyswing by to use the laser cutter. Both are fine. The space benefits from a mix of engagement levels.
+Participation isn't an obligation beyond your dues. Some months you'll be deeply involved; other months you might only swing by to use the laser cutter. Both are fine. The space benefits from a mix of engagement levels.
 
 What matters is that when you do participate, you do so in the spirit of [excellence](/excellence) — with respect for others and in good faith.
 
