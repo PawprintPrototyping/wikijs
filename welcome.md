@@ -62,14 +62,16 @@ The TV near the conference table has a Chromecast normally connected to its HDMI
 
 The sound system can be driven by any bluetooth client, just go to the office and hit the PAIRING button on the remote for the Sony amplifier, then pair your device like usual.  There's also a Chrome streaming device hooked up to the AUX port, and you can stream to that over the network if you set the amp to the AUX input.  Try not to blast audio too loudly.
 
-## Cat
-
-There's some cats that live in the parking lot.  The neighbors feed them.  Don't bother trying to make friends with them, they don't like humans getting too close.
-
 ## HAZMAT
 
-(there should be something from the board here)
+Pawprint does not have any facilities for disposing of hazardous waste, as a small non-profit it is unfortunately too expensive for the small amount of waste we go through to offer.  Most nearby municipalities offer residents hazardous waste drop-off.  If your project or tool generates waste (e.g. the resin 3d printers), you should will also need to be responsible for disposing of that waste properly at your city's transfer station.
+
+**Never pour hazardous waste down the sink**.
+
+* [Santa Clara Hazardous Household Waste](https://hhw.santaclaracounty.gov/home)
+* [City of San Jose Household Hazardous Waste](https://www.sanjoseca.gov/your-government/departments-offices/environmental-services/recycling-garbage/residents/how-to-recycle-right/household-hazardous-waste)
+* [San Mateo County Household Hazardous Waste](https://www.smchealth.org/hhw)
 
 ## PPE
 
-There's personal protective equipment (PPE) such as goggles and earmuffs in the large upright cabinet in the office.  You should use them, and offer them to others present, if you're going to be using any of the power tools in the front of the space.
+There's personal protective equipment (PPE) such as goggles and earmuffs in the large upright cabinet in the office.  You should use them, and offer them to others present, if you're going to be using any of the power tools in the front of the space.  Some of these are disposable (earplugs, nitrile gloves) but some are reusable (eye protection, N95 respirators) - for PPE you plan to reuse, write your name or initials somewhere with a sharpie and hang it outside the cabinet, or keep them with you.
