@@ -2,7 +2,7 @@
 title: Becoming a Member
 description: How to become a mamber at PawPrint Prototyping
 published: true
-date: 2026-05-06T03:56:49.797Z
+date: 2026-05-21T19:13:39.760Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-06T03:56:46.816Z
@@ -10,7 +10,7 @@ dateCreated: 2026-05-06T03:56:46.816Z
 
 # Becoming a Member
 
-PawPrint Prototyping is a member supported and governed organization. While we are open to the public, we rely greatly on our members to direct the space, support the space financially, and to act as a foundation for the community.
+Pawprint Prototyping is a member supported and governed organization. While we are open to the public, we rely greatly on our members to direct the space, support the space financially, and to act as a foundation for the community education and engagement.
 
 Members receive two main beneits:
 1. An RFID badge that may be used to open the space whenever they like.
