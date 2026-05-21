@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-01-23T22:39:42.733Z
+date: 2026-05-21T19:11:46.629Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-13T23:10:08.382Z
@@ -31,7 +31,7 @@ Welcome to the Pawprint Wiki. Here you'll find documentation about our tools, ho
 
 - [Tools Index](/tools) — A non-exhaustive list of everything in the space: laser cutter, mill, lathe, woodworking, graphic arts, and more.
 - [3D Printers](/3d-printing) — FDM and resin printers, materials compatibility, and operating procedures. Certification required.
-- [Electronics Workbench](/electronics) — Oscilloscopes, power supplies, soldering stations, RF equipment, and more.
+- [Electronics Workbench](/electronics/index) — Oscilloscopes, power supplies, soldering stations, RF equipment, and more.
 - [Tool Certifications](/tool-certifications) — Some tools require a sign-off before use. Here's which ones and how to get certified.
 
 ## Operations
