@@ -2,7 +2,7 @@
 title: Tools
 description: 
 published: true
-date: 2026-05-09T19:38:50.983Z
+date: 2026-05-21T21:28:12.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:19:22.073Z
@@ -32,6 +32,7 @@ A non-exhaustive index of our tools.
 * [Thermal Laminator](/tools/laminator.md)
 
 # Electronics workbench
+* [Workbench page](/electronics/index)
 * Programmable power supplies
 * DC electronic load
 * 4ch 100MHz Digital Oscilloscope
