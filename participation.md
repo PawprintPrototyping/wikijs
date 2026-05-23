@@ -2,10 +2,10 @@
 title: Participation
 description: How to get involved at PawPrint Prototyping beyond just showing up.
 published: true
-date: 2026-05-19T00:00:00.000Z
+date: 2026-05-23T21:57:28.318Z
 tags: governance
 editor: markdown
-dateCreated: 2026-05-19T00:00:00.000Z
+dateCreated: 2026-05-21T19:03:48.507Z
 ---
 
 # Participation
@@ -26,7 +26,7 @@ Run a workshop. Give a lightning talk at a meeting. Write a wiki page about some
 Take out the trash. Restock the kitchen. Fix a broken tool. Organize a messy shelf. Update the wiki when something changes. These small acts keep the space functional and welcoming.
 
 ### Start Something New
-Launch an interest group. Propose a group project. Organize a field trip. Set up a new piece of equipment. The [do-ocracy](/do-ocracy) principle means you don't need permission — just initiative.
+Launch an interest group. Propose a group project. Organize a field trip. Set up a new piece of equipment. The [do-ocracy](/do-ocracy) principle means you don't need permission, just initiative.
 
 ### Participate in Governance
 Attend general body meetings. Vote on motions. Propose changes. Run for the board. This is how the space's direction gets set, and it only works if people show up.
