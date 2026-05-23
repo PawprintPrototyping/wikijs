@@ -2,7 +2,7 @@
 title: Member Handbook
 description: A guide to how PawPrint Prototyping works — governance, culture, and expectations.
 published: true
-date: 2026-05-23T19:25:30.556Z
+date: 2026-05-23T19:26:20.328Z
 tags: governance
 editor: markdown
 dateCreated: 2026-05-21T19:03:45.763Z
@@ -59,7 +59,7 @@ The Board handles day-to-day paperwork, administration and consists of at minimu
 
 Board members are elected by the membership at least once every 12 months. Any member who has been active for at least 6 months is eligible to run.
 
-Ideally, the board exists mostly to file paperwork.  Healthy spaces mostly run themselves with little board intervention.
+Ideally, the board exists mostly to file paperwork and ensure bills get paid.  Healthy spaces mostly run themselves with little board intervention.
 
 ### Meetings
 
