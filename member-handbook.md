@@ -2,7 +2,7 @@
 title: Member Handbook
 description: A guide to how PawPrint Prototyping works — governance, culture, and expectations.
 published: true
-date: 2026-05-23T21:55:34.616Z
+date: 2026-05-23T21:55:56.854Z
 tags: governance
 editor: markdown
 dateCreated: 2026-05-21T19:03:45.763Z
@@ -47,7 +47,7 @@ Members or guests violating the Code of Conduct may be asked to leave. The full 
 
 ## Governance at a Glance
 
-PawPrint is a 501(c)(3) non-profit governed by its members and managed by a Board of Directors comprosed of elected community members.
+Pawprint is a 501(c)(3) non-profit governed by its members and managed by a Board of Directors comprosed of elected community members.
 
 ### The Board
 
@@ -68,7 +68,7 @@ Ideally, the board exists mostly to file paperwork and ensure bills get paid.  H
 
 ### How Decisions Get Made
 
-Most things at PawPrint are decided by [do-ocracy](/do-ocracy) — just do it. For bigger decisions that affect the whole organization:
+Most things at Pawprint are decided by [do-ocracy](/do-ocracy) — just do it. For bigger decisions that affect the whole organization:
 
 1. A member makes a **motion** during New Business at a general body meeting.
 2. Another member **seconds** the motion.
