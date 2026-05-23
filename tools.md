@@ -23,7 +23,7 @@ A non-exhaustive index of our tools.
 * Vertical bandsaw
 
 # Graphic arts and textiles
-* [EPSON Color Printer and Scanner](/tools/epson_et_3850.md)
+* [EPSON Color Printer and Scanner](/tools/epson-et-3850.md)
 * 28" wide vinyl cutter
   * Works with Inkcut, or Signmaster Pro licensed on office PC 
 * Brother desktop embroidery machine/sewing machine
