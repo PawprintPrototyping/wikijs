@@ -2,7 +2,7 @@
 title: Leaving Stuff at the Space
 description: Colocation, donation, and the parking pass system
 published: true
-date: 2026-05-23T22:06:51.378Z
+date: 2026-05-23T22:07:03.523Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T03:51:24.665Z
@@ -10,7 +10,7 @@ dateCreated: 2026-04-28T03:51:24.665Z
 
 # Leaving Stuff at the Space
 
-> In general, we ask that people refrain from leaving items at the space without approval.
+> **In general, we ask that people refrain from leaving items at the space without approval.**
 {.is-warning}
 
 Items left at the space should either be **colocated**, **donated**, or have a **green parking pass**.
