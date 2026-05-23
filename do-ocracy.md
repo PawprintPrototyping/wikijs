@@ -2,10 +2,10 @@
 title: Do-ocracy
 description: How things get done at Pawprint Prototyping.
 published: true
-date: 2026-05-19T00:00:00.000Z
+date: 2026-05-23T22:25:17.101Z
 tags: governance
 editor: markdown
-dateCreated: 2026-05-19T00:00:00.000Z
+dateCreated: 2026-05-21T19:03:36.969Z
 ---
 
 # Do-ocracy
@@ -16,9 +16,10 @@ It can be summed up as follows:
 
 > **Do-ocracy:** If you want something done, do it — but remember to be [excellent](/excellence) to each other when doing so.
 
-Do-ocracy applies to almost everything at Pawprint. If you think it'd be cool to build something out of spare parts, rearrange the furniture, set up a new workstation, or start a workshop series — **you should do it**. But remember to [be excellent]((/excellence)).
+Do-ocracy applies to almost everything at Pawprint. If you think it'd be cool to build something out of spare parts, rearrange the furniture, set up a new workstation, or start a workshop series: **you should do it**, but remember to [be excellent]((/excellence)).
 
-As a general rule of thumb, if you want to do something that takes less than an hour to undo, you should do it.
+> As a general rule of thumb, if you want to do something that takes less than an hour to undo, you should do it.
+{.is-info}
 
 The only exceptions are things that require big-C Consensus: a formal motion and vote at a general body meeting (typically described as big, expensive, or difficult-to-reverse changes to the organization itself).
 
@@ -28,7 +29,12 @@ There aren't many formal rules to do-ocracy, but here are some tips for smooth f
 
 ### Be Accountable
 
-If you make a change that isn't easy to undo - moving equipment, reorganizing a shared area, modifying infrastructure - make sure people know who did it and why. Post in the Telegram group, document it in the wiki, leave a note, or mention it at the next meeting. Let people know you're responsible for your change so they can ask questions or raise concerns.
+If you make a change that isn't easy to undo:
+* moving equipment
+* reorganizing a shared area
+* modifying infrastructure 
+
+Make sure people know who did it and why. Post in the Telegram group, document it in the wiki, leave a note, or mention it at the next meeting. Let people know you're responsible for your change so they can ask questions or raise concerns.
 
 ### Don't Be Afraid to Act
 
@@ -36,7 +42,7 @@ Sometimes you have to crack eggs to make an omelet. Most of the time it's easier
 
 ### Use Little-c Consensus
 
-If you're concerned that a change might be too impactful to just do unilaterally, talk to the people who are likely to be affected. Be willing to find outcomes that everyone can live with. If someone disagrees with something you've done, start a conversation — stonewalling without engaging isn't excellent.
+If you're concerned that a change might be too impactful to just do unilaterally, talk to the people who are likely to be affected. Be willing to find outcomes that everyone can live with. If someone disagrees with something you've done, start a conversation.  Stonewalling without engaging isn't excellent.
 
 ### Look for the Third Option
 
@@ -65,7 +71,7 @@ Do-ocracy doesn't mean you can do literally anything without regard for others:
 
 ## When Do-ocracy Isn't Enough
 
-Some decisions are too big, too expensive, or too contentious for one person to just do. That's what the formal governance process is for - motions proposed and voted on at general body meetings. If you're unsure whether something crosses that line, ask in the Telegram group.
+Some decisions are too big, too expensive, or too contentious for one person to just do. That's what the formal governance process is for: motions proposed and voted on at general body meetings. If you're unsure whether something crosses that line, ask in the Telegram group.
 
 ## Example
 
