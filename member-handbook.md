@@ -2,7 +2,7 @@
 title: Member Handbook
 description: A guide to how PawPrint Prototyping works — governance, culture, and expectations.
 published: true
-date: 2026-05-23T19:26:20.328Z
+date: 2026-05-23T21:55:34.616Z
 tags: governance
 editor: markdown
 dateCreated: 2026-05-21T19:03:45.763Z
@@ -10,7 +10,7 @@ dateCreated: 2026-05-21T19:03:45.763Z
 
 # Member Handbook
 
-Welcome to PawPrint Prototyping!  This handbook collects our governance principles, rules, and cultural norms into one place so you can understand how the space works and what's expected of everyone in it.
+Welcome to Pawprint Prototyping!  This handbook collects our governance principles, rules, and cultural norms into one place so you can understand how the space works and what's expected of everyone in it.
 
 ## Our Principles
 
