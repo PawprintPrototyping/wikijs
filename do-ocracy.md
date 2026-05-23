@@ -16,7 +16,7 @@ It can be summed up as follows:
 
 > **Do-ocracy:** If you want something done, do it — but remember to be [excellent](/excellence) to each other when doing so.
 
-Do-ocracy applies to almost everything at Pawprint. If you think it'd be cool to build something out of spare parts, rearrange the furniture, set up a new workstation, or start a workshop series: **you should do it**, but remember to [be excellent]((/excellence)).
+Do-ocracy applies to almost everything at Pawprint. If you think it'd be cool to build something out of spare parts, rearrange the furniture, set up a new workstation, or start a workshop series: **you should do it**, but remember to [be excellent](/excellence).
 
 > As a general rule of thumb, if you want to do something that takes less than an hour to undo, you should do it.
 {.is-info}
