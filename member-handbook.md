@@ -2,10 +2,10 @@
 title: Member Handbook
 description: A guide to how PawPrint Prototyping works — governance, culture, and expectations.
 published: true
-date: 2026-05-19T00:00:00.000Z
+date: 2026-05-23T19:25:30.556Z
 tags: governance
 editor: markdown
-dateCreated: 2026-05-19T00:00:00.000Z
+dateCreated: 2026-05-21T19:03:45.763Z
 ---
 
 # Member Handbook
@@ -47,17 +47,19 @@ Members or guests violating the Code of Conduct may be asked to leave. The full 
 
 ## Governance at a Glance
 
-PawPrint is a 501(c)(3) non-profit governed by its members and managed by a Board of Directors.
+PawPrint is a 501(c)(3) non-profit governed by its members and managed by a Board of Directors comprosed of elected community members.
 
 ### The Board
 
-The Board handles day-to-day administration and consists of at minimum:
+The Board handles day-to-day paperwork, administration and consists of at minimum:
 - **President** — chairs meetings, primary spokesperson
 - **Treasurer** — manages finances and dues
 - **Secretary** — maintains records and meeting minutes
 - **Chief Technology Officer** — maintains IT infrastructure
 
 Board members are elected by the membership at least once every 12 months. Any member who has been active for at least 6 months is eligible to run.
+
+Ideally, the board exists mostly to file paperwork.  Healthy spaces mostly run themselves with little board intervention.
 
 ### Meetings
 
