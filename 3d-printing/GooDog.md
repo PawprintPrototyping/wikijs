@@ -2,7 +2,7 @@
 title: Elegoo Saturn 4
 description: Resin Printer
 published: true
-date: 2026-05-28T04:30:19.582Z
+date: 2026-05-28T04:31:46.425Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-28T04:28:27.301Z
@@ -18,11 +18,11 @@ Resin 3D print certification required.
 
 **!!! DANGER !!!**
 
-**Resin is toxic and an irritant.** Gloves must be worn when handling uncured resin or IPA.
-The resin can produce fumes that are harmful, and the IPA will quickly evaporate into the air.
-Make sure the space is being ventilated or substances are minimally exposed to air.
-Electrical hazard, be careful for pacemakers or other electrical hazards.
-Moving robot, be weary of pinching.
+- **Resin is toxic and an irritant.** Gloves must be worn when handling uncured resin or IPA.
+- The resin can produce fumes that are harmful, and the IPA will quickly evaporate into the air.
+- Make sure the space is being ventilated or substances are minimally exposed to air.
+- Electrical hazard, be careful for pacemakers or other electrical hazards.
+- Moving robot, be weary of pinching.
 
 ### Prohibited Operations
 
