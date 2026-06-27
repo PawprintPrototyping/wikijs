@@ -2,7 +2,7 @@
 title: Tools
 description: 
 published: true
-date: 2026-05-21T21:28:12.477Z
+date: 2026-06-27T20:39:28.074Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:19:22.073Z
@@ -26,6 +26,7 @@ A non-exhaustive index of our tools.
 * [EPSON Color Printer and Scanner](/tools/epson-et-3850.md)
 * 28" wide vinyl cutter
   * Works with Inkcut, or Signmaster Pro licensed on office PC 
+* Bernina 1005 Sewing Machine
 * Brother desktop embroidery machine/sewing machine
   * License for Hatch digitizer on office PC
 * Tee-shirt heat press
