@@ -2,7 +2,7 @@
 title: Bernina 1005 Sewing Machine
 description: Beginner-friendly sewing machine
 published: false
-date: 2026-06-28T04:54:19.600Z
+date: 2026-06-28T04:57:01.879Z
 tags: tool
 editor: markdown
 dateCreated: 2026-06-28T04:51:58.503Z
@@ -24,7 +24,7 @@ dateCreated: 2026-06-28T04:51:58.503Z
 
 An analog, beginner-friendly sewing machine.
 
-![bernina-1005.jpg](/img/bernina-1005.jpg){.align-center}
+![bernina-1005.jpg](/img/bernina-1005.jpg){.align-center style="height: 500px"}
 
 # Safety and Certification
 
