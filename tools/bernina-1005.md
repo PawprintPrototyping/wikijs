@@ -2,7 +2,7 @@
 title: Bernina 1005 Sewing Machine
 description: Beginner-friendly sewing machine
 published: false
-date: 2026-06-28T04:51:58.503Z
+date: 2026-06-28T04:53:12.254Z
 tags: tool
 editor: markdown
 dateCreated: 2026-06-28T04:51:58.503Z
@@ -28,7 +28,7 @@ An analog, beginner-friendly sewing machine.
 
 # Safety
 
-> # Hazards
+> **Hazards**
 > - Needles are sharp! Secure any unused machine needles in their packaging.
 > - Do not place your hand under or above the sewing foot during operation.
 <!-- {blockquote:.is-danger} -->
@@ -36,7 +36,7 @@ An analog, beginner-friendly sewing machine.
 
 ## Pre-flight checklist
 
-> Before every sewing session {.is-info}
+> **Before every sewing session**
 > 1. Check that the thread in the bobbin is the correct type and is threaded correctly. Check the bobbin unspools smoothly.
 > 1. Set the machine to a straight stitch, no width.
 > 1. Thread the needle. See "[Threading the Needle](#threading-the-needle)" for details.
@@ -46,7 +46,7 @@ An analog, beginner-friendly sewing machine.
 
 ## Post-flight checklist
 
-> End of operation and clean-up{.is-info}
+> **End of operation and clean-up**
 > 1. Power down the machine.
 > 1. Unthread the needle.
 > 1. Slide the bobbin winder back to its original position if moved.
