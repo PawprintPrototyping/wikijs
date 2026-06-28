@@ -2,7 +2,7 @@
 title: Bernina 1005 Sewing Machine
 description: Beginner-friendly sewing machine
 published: false
-date: 2026-06-28T04:53:12.254Z
+date: 2026-06-28T04:54:19.600Z
 tags: tool
 editor: markdown
 dateCreated: 2026-06-28T04:51:58.503Z
@@ -26,9 +26,10 @@ An analog, beginner-friendly sewing machine.
 
 ![bernina-1005.jpg](/img/bernina-1005.jpg){.align-center}
 
-# Safety
+# Safety and Certification
 
-> **Hazards**
+## Hazards
+
 > - Needles are sharp! Secure any unused machine needles in their packaging.
 > - Do not place your hand under or above the sewing foot during operation.
 <!-- {blockquote:.is-danger} -->
