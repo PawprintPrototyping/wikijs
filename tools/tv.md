@@ -2,7 +2,7 @@
 title: TV
 description: 
 published: true
-date: 2026-01-23T22:04:50.605Z
+date: 2026-06-29T20:14:34.524Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:35:18.511Z
@@ -53,6 +53,9 @@ None.  You may find it useful to have your eyeballs calibrated by a certified ey
 * Turn on the power switch on the rear of the TV.
 
 * Use the remote control to power on the TV.
+
+* Set the audio output to External in the settings 
+(The TV forgets this setting when power cycled)
 
 # Maintenance
 
