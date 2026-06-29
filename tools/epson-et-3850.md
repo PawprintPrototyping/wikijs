@@ -2,7 +2,7 @@
 title: Epson ET 3850
 description: You like making labels, don't you
 published: true
-date: 2026-01-23T21:53:11.959Z
+date: 2026-06-29T20:48:39.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:18:01.096Z
