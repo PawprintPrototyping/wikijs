@@ -2,13 +2,13 @@
 title: Epson ET 3850
 description: You like making labels, don't you
 published: true
-date: 2026-06-29T20:48:39.006Z
+date: 2026-06-29T20:49:36.327Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:18:01.096Z
 ---
 
-# EPSON EcoTank ET-3850 Color Printer and Scanner
+# Squidward (EPSON EcoTank ET-3850 Color Printer and Scanner)
 
 >🤚 Tool Info
 >>🤚 __Do Not Hack__
