@@ -2,7 +2,7 @@
 title: Bernina 1005 Sewing Machine
 description: Beginner-friendly sewing machine
 published: true
-date: 2026-06-28T04:59:38.951Z
+date: 2026-06-29T04:29:45.369Z
 tags: tool
 editor: markdown
 dateCreated: 2026-06-28T04:51:58.503Z
@@ -62,7 +62,7 @@ An analog, beginner-friendly sewing machine.
 - Zig-zag stitch width up to 5mm.
 - Reverse stitch lever.
 - Has a darning toggle.
-- Button hole mode (though currently no button hole foot).
+- Button hole mode
 
 ## Stitches
 
@@ -80,10 +80,11 @@ Supports the following stitches:
 
 - 3D Printed Extension Table (made of black PLA)
 - Spare bobbins
-- Seam Ripper
+- Seam Rippers
 - Small thread scissors
-- Zig-zag presser foot
-- Overlock presser foot
+- Zig-zag presser foot ("foot 0")
+- Overlock presser foot ("foot 2")
+- Button hole presser foot ("foot 3")
 
 # Usage
 
