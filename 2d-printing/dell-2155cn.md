@@ -2,7 +2,7 @@
 title: Dell 2155cn Color MFP
 description: 
 published: true
-date: 2026-06-30T01:16:42.627Z
+date: 2026-06-30T02:14:57.931Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-30T01:16:42.627Z
@@ -71,4 +71,4 @@ The toner cartages are accessed from the panel on the right side of the printer.
 
 |Date | Event |
 |-----|-------|
-|2020-01-04|Installed|
+|2020-04-01|Installed|
