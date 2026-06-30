@@ -2,7 +2,7 @@
 title: Miscellaneous Tools
 description: Smaller tools or tools that still need dedicated pages.
 published: true
-date: 2026-04-28T06:08:54.370Z
+date: 2026-06-30T01:17:22.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T05:42:27.067Z
@@ -58,11 +58,6 @@ dateCreated: 2026-04-28T05:42:27.067Z
 ## Plotters
 - **US Cutter MH871-MK2 vinyl cutter and plotter**. Lives next to the office computer. We usually use the VinylMaster software with it.
 - **Silhouette Cameo 4 Pro.** Can do vinyl cutting, plotting, and sticker kiss-cutting (albeit with difficulty and proprietary software). That's probably the correct model?
-
-## 2D Printers
-- **Dell 2155cn color laser printer.** It's a decent workhorse printer. If you print an image to it from linux it will print your image 3 times side-by-side in decreasing widths and quality. When this happens, you may wobble the laminated paper creature on the side of the PPE cabinet.
-- **Epson ET-3850 EcoTank inkjet printer.** Decent quality inkjet usually used for printing stickers. Ecotank refils are on the shelf next to it.
-- **Epson ST-2000 EcoTank inkjet modified for dyesub.** Don't use this for normal printing. Do use it for fancy dyesub printing.
 
 ## Truly Miscellaneous
 - **Heat press.** Presses heat-transfer vinyl on to things with heat. We also have the mug heat press thingy if you want to make mugs.
