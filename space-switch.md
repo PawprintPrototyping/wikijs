@@ -2,7 +2,7 @@
 title: Space Switch
 description: Information about the space when it's open, for both guests and members.
 published: true
-date: 2026-07-06T22:06:31.337Z
+date: 2026-07-06T22:07:34.302Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T01:20:43.245Z
@@ -34,11 +34,7 @@ Hope to see you soon!
 
 ## Getting to Pawprint
 
-We are located at:
-<a href="https://maps.app.goo.gl/fcRBB4kkxDce3Yhv7"><address>
-545 Aldo Ave, #24
-Santa Clara, CA 95054
-</address></a>
+We are located at [545 Aldo Ave, #24, Santa Clara, CA 95054](https://maps.app.goo.gl/fcRBB4kkxDce3Yhv7)
 
 ### By Car
 Most of our neighbors are active during business hours, so outside those times there is usually plenty of parking available in our lot with additional parking on Aldo Ave.
