@@ -2,7 +2,7 @@
 title: Space Switch
 description: Information about the space when it's open, for both guests and members.
 published: true
-date: 2026-02-28T04:40:10.727Z
+date: 2026-07-06T22:06:31.337Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T01:20:43.245Z
@@ -32,6 +32,26 @@ Members enjoy access to the space for $100/month.  If you are interested in beco
 
 Hope to see you soon!
 
+## Getting to Pawprint
+
+We are located at:
+<a href="https://maps.app.goo.gl/fcRBB4kkxDce3Yhv7"><address>
+545 Aldo Ave, #24
+Santa Clara, CA 95054
+</address></a>
+
+### By Car
+Most of our neighbors are active during business hours, so outside those times there is usually plenty of parking available in our lot with additional parking on Aldo Ave.
+
+### By Transit
+Our facility is unfortunately a bit off the beaten path for transit.  Here are some of the closest transit stops:
+
+|Station|Distance|Biking|Walking|
+|----|----|---|---|---|
+|[Santa Clara Caltrain Station](https://www.google.com/maps/place/545+Aldo+Ave+%2324,+Santa+Clara,+CA+95054,+USA/@37.3689631,-121.9625375,14z/data=!4m23!1m16!4m15!1m6!1m2!1s0x808fcba570871d4b:0x9e7618c46b7d29c5!2sSanta+Clara+Caltrain+Station,+481+El+Camino+Real,+Santa+Clara,+CA+95050,+United+States!2m2!1d-121.9369618!2d37.3532274!1m6!1m2!1s0x808fc978b8955555:0xaca81bb412f27e34!2s545+Aldo+Ave+%2324,+Santa+Clara,+CA+95054,+USA!2m2!1d-121.9461498!2d37.3857115!3e1!3m5!1s0x808fc978b8955555:0xaca81bb412f27e34!8m2!3d37.3857115!4d-121.9461498!16s%2Fg%2F11mhjxmcfr?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D)|5 km | 15 minutes | 60 minutes |
+|[River Oaks Light Rail Station](https://www.google.com/maps/dir/River+Oaks+Park+and+Ride+Light+Rail+Station,+56+River+Oaks+Pkwy,+Santa+Clara,+CA+95054,+United+States/Pawprint+Prototyping,+545+Aldo+Ave+%2324,+Santa+Clara,+CA+95054,+United+States/@37.39256,-121.9503537,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x808fc90cc852edbb:0xa753bd2452b3ab7c!2m2!1d-121.940553!2d37.4014444!1m5!1m1!1s0x808fc94b095f4197:0x107c75b27016545b!2m2!1d-121.9462644!2d37.3858443!3e1?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D) | 2.7 km | 9 minutes | 40 minutes |
+| [20 Bus: Montague & De La Cruz](https://maps.app.goo.gl/goJnE7hYNjCNrTFJ7) | 1.3 km | 4 minutes | 17 minutes |
+
 
 # For Members
 ## So you've switched the space switch to "OPEN"
@@ -47,3 +67,5 @@ By setting the space to "Open", you've carved out a few extra responsibilities f
 * And finally, making sure guests leave before you member lock up the space to depart.
 
 If you are looking to depart and there is another key member present, please ask them if they are willing to take on these space switch duties.  If not, change the space to closed and kindly usher guests out of the space before leaving.
+
+[^1]: https://www.google.com/maps/place/545+Aldo+Ave+%2324,+Santa+Clara,+CA+95054,+USA/@37.3689631,-121.9625375,14z/data=!4m23!1m16!4m15!1m6!1m2!1s0x808fcba570871d4b:0x9e7618c46b7d29c5!2sSanta+Clara+Caltrain+Station,+481+El+Camino+Real,+Santa+Clara,+CA+95050,+United+States!2m2!1d-121.9369618!2d37.3532274!1m6!1m2!1s0x808fc978b8955555:0xaca81bb412f27e34!2s545+Aldo+Ave+%2324,+Santa+Clara,+CA+95054,+USA!2m2!1d-121.9461498!2d37.3857115!3e1!3m5!1s0x808fc978b8955555:0xaca81bb412f27e34!8m2!3d37.3857115!4d-121.9461498!16s%2Fg%2F11mhjxmcfr?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D
