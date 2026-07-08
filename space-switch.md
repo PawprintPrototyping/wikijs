@@ -2,7 +2,7 @@
 title: Space Switch
 description: Information about the space when it's open, for both guests and members.
 published: true
-date: 2026-07-06T22:07:34.302Z
+date: 2026-07-08T20:43:36.368Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T01:20:43.245Z
@@ -13,6 +13,7 @@ dateCreated: 2025-12-15T01:20:43.245Z
 ![Space Status](https://spaceapistatusimage.hosted.quelltext.eu/status?url=https%3A%2F%2Fmembers.pawprintprototyping.org%2Fapi%2Fspacedirectory%2F)
 
 ![spaceswitch.jpg](/img/spaceswitch.jpg =800x){.align-right}
+<br>
 
 # For Guests
 
