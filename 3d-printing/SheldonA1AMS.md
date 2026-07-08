@@ -1,8 +1,8 @@
 ---
 title: Sheldon chick (Bambu A1 + AMS)
 description: 
-published: true
-date: 2026-01-23T22:35:35.647Z
+published: false
+date: 2026-07-08T17:30:46.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T22:35:32.970Z
