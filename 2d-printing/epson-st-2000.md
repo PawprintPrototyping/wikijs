@@ -2,13 +2,13 @@
 title: Epson ST 2000
 description: 
 published: true
-date: 2026-06-29T20:47:35.848Z
+date: 2026-07-09T06:24:46.655Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T20:47:35.848Z
 ---
 
-# EPSON WorkForce ST-2000 Color Printer and Scanner
+# Subby (EPSON WorkForce ST-2000 Color Printer and Scanner)
 
 >🤚 Tool Info
 >>🤚 __Do Not Hack__
