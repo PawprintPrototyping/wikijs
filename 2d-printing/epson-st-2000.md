@@ -2,7 +2,7 @@
 title: Epson ST 2000
 description: 
 published: true
-date: 2026-07-09T06:24:46.655Z
+date: 2026-07-09T08:07:46.413Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T20:47:35.848Z
@@ -35,7 +35,7 @@ A wireless colo(u)r printer and scanner, modified for dyesub,
 
 When the printer is on, it usually auto-connects to the Pawprint Prototyping wifi, and any other computers on the wifi should be able to automatically see the printer.
 
-You can check that the printer is handling connections correctly through HTTP server.  It can be found at the address `epson5b9b4d.infra.pawprint.space`.
+You can check that the printer is handling connections correctly through HTTP server.  It can be found at the address `subby.infra.pawprint.space`.
 
 ## Scanning
 
