@@ -2,14 +2,10 @@
 title: Pawprint infra-interest
 description: Bi-monthly meeting to learn about Linux, self-hosting, home-lab, networking, and more
 published: true
-date: 2026-07-14T02:51:59.765Z
+date: 2026-07-14T02:52:39.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-13T02:18:13.712Z
----
-
----
-title: Pawprint-infra-interest
 ---
 
 # \#pawprint-infra-interest
