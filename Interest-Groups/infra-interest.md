@@ -2,7 +2,7 @@
 title: Pawprint infra-interest
 description: Bi-monthly meeting to learn about Linux, self-hosting, home-lab, networking, and more
 published: true
-date: 2026-02-13T06:49:44.359Z
+date: 2026-07-14T02:51:59.765Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-13T02:18:13.712Z
@@ -20,7 +20,7 @@ _Infra_: {n} computer hardware and software components that form the foundation 
 
 Come learn Linux skills, how to host your own website and applications at home on commodity hardware, and apply those skills hands-on to make the space better and easier for everyone to use.
 
-Join the discussion: [pawprint-infra-interest group on Telegram](https://t.me/+F8KkneDKQFgxZTdh).
+Join the discussion: [pawprint-infra-interest group on Telegram](https://telegram.me/+F8KkneDKQFgxZTdh).
 
 (Usually) Hosted by Rechner, with rotating presentations by other members and guests.
 
