@@ -2,7 +2,7 @@
 title: Bridgeport Mill
 description: Brrrrrrrrr
 published: true
-date: 2026-02-04T05:03:17.491Z
+date: 2026-07-15T07:20:59.037Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T01:50:17.201Z
@@ -79,7 +79,8 @@ This is a Bridgeport Series 1 2HP Manual Mill with a particularly smokey powerfe
 |Timber      |Rebuilding it |                |
 |Bocuma      |Helping Out   | 4/3/2024       |
 |Kilte       |Helping Out   | 4/3/2024       |
-|Nimbus      |Bocuma        | 2/3/2026
+|Nimbus      |Bocuma        | 2/3/2026       |
+|Kaze        |Bocuma        | 6/25/2026      |
 
 
 # Maintenance
