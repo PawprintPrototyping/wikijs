@@ -2,7 +2,7 @@
 title: The Board
 description: The Board of Directors
 published: true
-date: 2026-05-09T18:48:51.705Z
+date: 2026-07-16T18:37:14.276Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T03:47:24.869Z
@@ -18,10 +18,10 @@ The current board of directors consists of:
 | Position | Name | Email | Extension|
 |----------|------|-------|----------|
 |**President** | Kataze | president@ | 400    |
-|**CFO** | Falxie | cfo@ | 403
+|**CFO** | NIC | cfo@ | 403
 |**CTO** | [Rechner](https://t.me/rechner) | cto@ | 404 |
 |**Secretary** | Geo | secretary@ | 401 |
-|**Member at Large** | Kay | large@ | 402 |
+|**Member at Large** | Danger | large@ | 402 |
 
 
 
