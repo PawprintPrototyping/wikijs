@@ -1,8 +1,8 @@
 ---
 title: Roy rooster (Ender 3V3)
 description: 
-published: true
-date: 2026-01-23T22:33:42.479Z
+published: false
+date: 2026-07-16T18:29:53.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T22:33:39.822Z
