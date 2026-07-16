@@ -2,7 +2,7 @@
 title: TV
 description: 
 published: true
-date: 2026-06-29T20:14:34.524Z
+date: 2026-07-16T18:52:17.622Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:35:18.511Z
@@ -27,16 +27,10 @@ If you plug the cables coming out of the TV into a compatible connector, you mig
 
 # Description
 
-It's a PS-4200.
+It's a NEC V552.
 
 User guide:
-https://www.planar.com/media/63178/020-1128-00_revc_manual_ps_series.pdf
-
-
-RS-232 manual:
-https://www.planar.com/media/239622/020-1156-00-revb-ps-series-rs-232-manual.pdf
-
-The TV's ID is #1, or `0x30 0x31` on the wire.
+https://sharp-displays.jp.sharp/support/webdl/dl_service/data/display_en/manual/v552/V552_V652_manual_EN_v11.pdf
 
 # Safety and Certification
 
@@ -48,14 +42,11 @@ None.  You may find it useful to have your eyeballs calibrated by a certified ey
 
 ## Operation checklist
 
-* Plug in the power cord if it is not already plugged in.  To avoid a tripping hazard, the extension cord on the floor may be unplugged and coiled up.
+* Plug in the power cord if it is not already plugged in.
 
 * Turn on the power switch on the rear of the TV.
 
 * Use the remote control to power on the TV.
-
-* Set the audio output to External in the settings 
-(The TV forgets this setting when power cycled)
 
 # Maintenance
 
