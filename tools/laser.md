@@ -2,7 +2,7 @@
 title: 80W Laser Cutter
 description: 
 published: true
-date: 2026-06-24T04:18:43.848Z
+date: 2026-07-29T05:36:39.993Z
 tags: tool
 editor: markdown
 dateCreated: 2025-12-14T02:00:26.559Z
@@ -224,7 +224,9 @@ You can also manually level by jogging the Z up and down, and using the short en
 |Cameron      | Geo          | 2026-02-03     |
 |Kiyo         | Rechner      | 2026-02-17     |
 |Awe          | Rechner, Geo | 2026-06-23     |
-
+|Yuril        | Rechner      | 2026-07-28     |
+|Ziggy        | Rechner      | 2026-07-28     |
+|Never        | Rechner      | 2026-07-28     |
 
 
 # Maintenance
