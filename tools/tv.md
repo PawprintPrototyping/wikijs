@@ -2,7 +2,7 @@
 title: TV
 description: 
 published: true
-date: 2026-07-16T18:52:17.622Z
+date: 2026-07-30T01:47:04.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:35:18.511Z
@@ -57,4 +57,4 @@ Use a soft cloth to dust.
 
 |Date | Event |
 |-----|-------|
-|||
+|2026-07-16|Installed|
