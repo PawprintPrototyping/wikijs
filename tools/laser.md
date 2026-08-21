@@ -2,7 +2,7 @@
 title: 80W Laser Cutter
 description: 
 published: true
-date: 2026-07-29T05:37:30.864Z
+date: 2026-08-21T01:45:48.786Z
 tags: tool
 editor: markdown
 dateCreated: 2025-12-14T02:00:26.559Z
@@ -252,3 +252,4 @@ You can also manually level by jogging the Z up and down, and using the short en
 |2025-04-01 | Geo is better at aligning the laser than me.  Mirror adjustments were at the very end of their of their travel, causing path wobble | Rechner
 |2025-04-15 | Replaced failed E-stop and laser keyswitch.  Key is now captive in keyswich while switched on | Rechner
 |2026-03-10 | Cleaned optics | Rechner
+|2026-08-20 | Cleaned optics, lubricate rails and chain, top off coolant, confirm alignment | Rechner
