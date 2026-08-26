@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-05-21T19:11:46.629Z
+date: 2026-08-26T05:40:48.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-13T23:10:08.382Z
@@ -26,6 +26,7 @@ Welcome to the Pawprint Wiki. Here you'll find documentation about our tools, ho
 - [Participation](/participation) — Ways to get involved beyond just showing up.
 - [The Board](/the-board) — Current board members, contact info, and mailing address.
 - [Bylaws](https://pawprintprototyping.org/pages/bylaws) — The full legal governing document, including Rules and Code of Conduct.
+- [Meeting minutes](https://github.com/PawprintPrototyping/admin) — Records of our general body and board meetings.
 
 ## Tools & Equipment
 
