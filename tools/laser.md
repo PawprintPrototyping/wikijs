@@ -2,7 +2,7 @@
 title: 80W Laser Cutter
 description: 
 published: true
-date: 2026-09-02T04:07:09.387Z
+date: 2026-09-02T04:18:50.389Z
 tags: tool
 editor: markdown
 dateCreated: 2025-12-14T02:00:26.559Z
