@@ -2,7 +2,7 @@
 title: Template
 description: 
 published: true
-date: 2026-01-23T22:02:25.290Z
+date: 2026-10-05T06:17:30.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T21:33:29.548Z
@@ -26,7 +26,7 @@ dateCreated: 2025-12-15T21:33:29.548Z
 >{.is-info}
 
 
-_Congratulations! You are now in charge of the woodworking tools in the blue cabinet!_
+_Congratulations! You are now in charge of [the woodworking tools in the blue cabinet!](https://runningahackerspace.tumblr.com/post/126543087482/hello-just-trying-to-figure-out-how-to-request)_
 
 This is a basic template with sections useful for most tools requiring a sign-off ("Red" tools).  Use this as the basis for a new tool's wiki page.
 
