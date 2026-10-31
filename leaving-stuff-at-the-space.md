@@ -2,7 +2,7 @@
 title: Leaving Stuff at the Space
 description: Colocation, donation, and the parking pass system
 published: true
-date: 2026-05-23T22:07:03.523Z
+date: 2026-10-31T22:00:48.830Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T03:51:24.665Z
@@ -26,7 +26,9 @@ We accept tax-deductable donations of physical items! However, we still want to 
 
 ## Colocating items
 
-Tools and appliances may be colocated at the space. These items remain owned by whoever is colocating them but are available for use by everyone at PawPrint. Colocation may be ended at any time (although notice is appreciated). If you would like to colocate an item, please reach out to the [Secretary](/the-board).
+Tools and appliances may be colocated at the space. These items remain owned by whoever is colocating them but are available for use by everyone at PawPrint (with the appropriate training, if applicable). Colocation may be ended at any time (although notice is appreciated). If you would like to colocate an item, please reach out to the [Secretary](/the-board).
+
+All colocated tools should have a wiki page [based on this template](https://wikijs.pawprintprototyping.org/en/tools/template).  If your tool requires training to safely use, please also document a plan for certifying others on the equipment.
 
 ## Parking Passes
 
