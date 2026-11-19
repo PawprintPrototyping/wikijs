@@ -2,7 +2,7 @@
 title: Forklift
 description: ''
 published: true
-date: '2026-11-19T04:29:43.757Z'
+date: '2026-11-19T04:36:48.803Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-01T21:40:37.493Z'
@@ -22,12 +22,6 @@ dateCreated: '2026-11-01T21:40:37.493Z'
 >
 >{.is-info}
 
-
-_Congratulations! You are now in charge of [the woodworking tools in the blue cabinet!](https://runningahackerspace.tumblr.com/post/126543087482/hello-just-trying-to-figure-out-how-to-request)_
-
-This is a basic template with sections useful for most tools requiring a sign-off ("Red" tools).  Use this as the basis for a new tool's wiki page.
-
-It may be useful to link to the manufacturer's documentation, but these pages may also include any quirks and features of the tool, as it pertains to use in our hackerspace.
 
 # Description
 
