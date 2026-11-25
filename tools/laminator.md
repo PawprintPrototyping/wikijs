@@ -1,23 +1,26 @@
 ---
 title: Laminator
-description: 
+description: ''
 published: true
-date: 2026-01-29T06:35:48.550Z
-tags: 
+date: '2026-11-25T03:31:08.398Z'
+tags: []
 editor: markdown
-dateCreated: 2025-12-15T21:21:16.049Z
+dateCreated: '2025-12-15T21:21:16.049Z'
 ---
 
 # Thermal Laminator
 
->🤚 Tool Info
->>🤚 __Do Not Hack__
->{.is-warning}
->
->>🐾 Owner: Pawprint Prototyping
->{.is-info}
->
->{.is-info}
+<div class="blockquote is-info" role="alert">
+  <p>🤚 Tool Info</p>
+
+  <blockquote class="is-warning">
+    <p>🤚 <strong>Do Not Hack</strong></p>
+  </blockquote>
+
+  <blockquote class="is-info">
+    <p>🐾 Owner: Pawprint Prototyping</p>
+  </blockquote>
+</div>
 
 # Description
 
