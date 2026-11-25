@@ -2,7 +2,7 @@
 title: Forklift
 description: ''
 published: true
-date: '2026-11-25T03:13:33.838Z'
+date: '2026-11-25T04:14:02.955Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-01T21:40:37.493Z'
@@ -10,17 +10,11 @@ dateCreated: '2026-11-01T21:40:37.493Z'
 
 # Forklift
 
->🤚 Tool Info
->>![certification](/certification.svg =20x) Certification Required
->{.is-danger}
->
->>🤚 __Do Not Hack__
->{.is-warning}
->
->>🐾 Owner: Geo
->{.is-info}
->
->{.is-info}
+| ℹ️ 🤚 Tool Info |
+| :--- |
+| <blockquote class="is-danger"><p>![certification](/certification.svg =20x) Certification Required</p></blockquote>  | 
+| <blockquote class="is-warning"><p>🤚 <strong>Do Not Hack</strong></p></blockquote>  | 
+| <blockquote class="is-info"><p>🐾 Owner: Geo</p></blockquote> |
 
 - Max load at 24" center: 2500lbs (2700-200)
 - Max load at 27" center: 2200lbs (2400-200)
