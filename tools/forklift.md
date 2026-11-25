@@ -2,7 +2,7 @@
 title: Forklift
 description: ''
 published: true
-date: '2026-11-19T04:36:48.803Z'
+date: '2026-11-25T03:13:33.838Z'
 tags: []
 editor: markdown
 dateCreated: '2026-11-01T21:40:37.493Z'
@@ -22,16 +22,6 @@ dateCreated: '2026-11-01T21:40:37.493Z'
 >
 >{.is-info}
 
-
-# Description
-
-It's a forklift. It picks things up and puts them down. It's also an extremely hazardous tool that must be handled appropriately.
-
-Certification and training is a hard requirement for using this tool. **Operating the forklift without certification may lead to immediate dismissal from the space.**
-
-Specifically, our forklift is a Hyster A30XL from 1988. It as the following specs:
-- Upgrades: side-shift (reduces maximum load capacity by ~200lbs)
-- Max load at 20" center: 2800lbs (3000-200)
 - Max load at 24" center: 2500lbs (2700-200)
 - Max load at 27" center: 2200lbs (2400-200)
 - Total unit weight: 7124lbs
@@ -67,8 +57,7 @@ Specifically, our forklift is a Hyster A30XL from 1988. It as the following spec
 # Maintenance
 
 ## Battery Charging
-Battery charging can be rather dangerous and should be handled by the forklift manager (currently Geo).
-The forklift should generally only be charged when needed (i.e. no "topping up") to prolong battery life.
+Batte- [Always wear the seatbelt when operating a forklift](https://www.youtube.com/shorts/u98nfLOp7cM). e forklift should generally only be charged when needed (i.e. no "topping up") to prolong battery life.
 The forklift manager will check the state of the battery on a regular cadence (currently every Tuesday).
 The following charging procedure should be used:
 - Position the forklift outside, in front of the roll-up door.
