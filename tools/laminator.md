@@ -2,7 +2,7 @@
 title: Laminator
 description: ''
 published: true
-date: '2026-11-25T03:39:30.580Z'
+date: '2026-11-25T04:10:08.066Z'
 tags: []
 editor: markdown
 dateCreated: '2025-12-15T21:21:16.049Z'
@@ -10,20 +10,11 @@ dateCreated: '2025-12-15T21:21:16.049Z'
 
 # Thermal Laminator
 
->[!NOTE] 🤚 Tool Info
->
-> > [!WARNING]🤚 __Do Not Hack__ 
-> 
-> > [!NOTE] 🐾 Owner: Pawprint Prototyping 
->
+| ℹ️ 🤚 Tool Info |
+| :--- |
+| <blockquote class="is-warning"><p>🤚 <strong>Do Not Hack</strong></p></blockquote>  | 
+| <blockquote class="is-info"><p>🐾 Owner: Pawprint Prototyping</p></blockquote> |
 
-
-> 🤚 Tool Info
->
-> > 🤚 __Do Not Hack__ <!--{blockquote:.is-warning}-->
->
-> > 🐾 Owner: Pawprint Prototyping <!--{blockquote:.is-info}-->
-<!--{blockquote:.is-info}-->
 # Description
 
 This is a model [B09RBHV2D1](https://www.amazon.com/Amazon-Basics-12-Inch-Thermal-Laminator/dp/B09RBHV2D1) 12" thermal laminator.  It is usually located in the lower-right desk drawer in the office.
